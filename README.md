@@ -1,2 +1,4 @@
 # freeCodeCampTibutePage
-Free Code Camp's Tribute page 
+
+This was the frist challenge for the Front-End certification by Free Code Camp
+
